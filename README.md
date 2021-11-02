@@ -1,5 +1,5 @@
 # TestHTTPSClient
-## config.properties
+## config.properties <br />
 host:localhost
 port:8253
 context:/services/test
@@ -8,5 +8,5 @@ payload:{"appUserId": "bolvrmws1","serviceType": "Case Creation","alertStartTime
 keyspath:/Users/apple/Documents/support/151_/wso2carbon.jks
 password:wso2carbon
 
-## How to run the client with ssl debug logs enabled 
+## How to run the client with ssl debug logs enabled <br />
 java -Djavax.net.debug=ssl,handshake -jar TestHTTPSClient-1.0-jar-with-dependencies.jar <path to config.properties file>
