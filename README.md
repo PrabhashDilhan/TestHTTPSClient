@@ -6,7 +6,7 @@
 <li>port:8253</li>
 <li>context:/services/test</li>
 <li>authorization:sdfsdfsd</li>
-<li>payload:{"appUserId": "dd","service": "Case","Time": "20211010112035","EndTime": "20211010112135"}</li>
+<li>payload:{"appUserId": "dd","service": "Case","name": "juan","age": "22"}</li>
 <li>keyspath:/Users/wso2carbon.jks</li>
 <li>password:wso2carbon</li>
 </ul>
